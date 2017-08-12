@@ -1,1 +1,1 @@
-# SANSInstituteWorkProductExercise
+# SANSInstitut
